@@ -1,5 +1,5 @@
-h1 {
-    font: 800 2rem 'Montserrat';
+h2 {
+    font: 800 2rem "Montserrat";
     background: linear-gradient(to right, #06599b 10%, #01ef96 50%, #06599b 90%);
     background-size: 200% auto;
     background-clip: text;
